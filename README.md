@@ -2,7 +2,7 @@
 Collected methods of mutation detection from WGS/WES
 
 ## SNV/INDEL/SV
-- [speedSeq](https://github.com/hall-lab/speedseq)
+- [SpeedSeq](https://github.com/hall-lab/speedseq)
 
 ## Capture-Seq
 - [BAMClipper](https://github.com/tommyau/bamclipper) -- Remove primer sequence from BAM alignments by soft-clipping
