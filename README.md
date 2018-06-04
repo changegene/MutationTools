@@ -22,7 +22,8 @@ Collected methods of mutation detection from WGS/WES
 - [sciclone]
  基于SNV/indel VAF
 
-
+## virus integration
+- [VirTect](https://github.com/WGLab/VirTect)
 
 
 ## SV
